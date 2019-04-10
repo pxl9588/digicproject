@@ -1,0 +1,3 @@
+Pull: git pull origin master
+Add: git add --all
+Commit: git commit -m "Commit Message"
